@@ -7,11 +7,12 @@ This repository contains a university project focused on the explainability of o
 This project aims to improve the transparency and interpretability of object detection models in content moderation by using YOLOv8, trained on a weapon dataset.
 
 ## Dataset
-For training our own YOLOv8 model we used the dataset from https://github.com/ari-dasci/OD-WeaponDetection which includes weapons and similar objects.
+For training our custom YOLOv8 model we used the dataset from https://github.com/ari-dasci/OD-WeaponDetection which includes weapons and similar objects.
 
 ## Model Training
 
-Training involves data preprocessing, model configuration, and evaluation. Details are in the YOLO training folder.
+Training involves data preprocessing, model training, and evaluation. Details are in the `YOLO training` folder.
+In addition to that we also used an already pre-trained weapons model from https://github.com/JoaoAssalim/Weapons-and-Knives-Detector-with-YOLOv8/tree/main
 
 ## Explainability Methods
 We used the following repo for the explainability part https://github.com/Spritan/YOLOv8_Explainer
@@ -27,7 +28,7 @@ Results include:
 - Explainability visualizations
 - POC with GUI
 
-Details are available in the `explainability_poc.ipynb` directory and notebooks.
+Details are available in the `explainability_poc.ipynb` notebook.
 
 
 ## Acknowledgments
