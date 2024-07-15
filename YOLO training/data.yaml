@@ -1,0 +1,20 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: /Projekt/data/train
+val: /Projekt/data/test
+
+# Classes
+
+# number of classes
+nc: 7
+
+# class names
+#names: ['smartphone', 'knife', 'billete', 'monedero', 'pistol', 'tarjeta']
+names:
+  0: 'empytClass'
+  1: 'smartphone'
+  2: 'knife'
+  3: 'billete'
+  4: 'monedero'
+  5: 'pistol'
+  6: 'tarjeta'
