@@ -33,7 +33,4 @@ Details are available in the `explainability_poc.ipynb` notebook.
 
 ## Acknowledgments
 
-Thanks to our university, professors, YOLOv8 contributors, and the open-source community.
-
-## GitHub Repo
-https://github.com/PixelPioneer77/xAI-Project
+Thanks to our university, professor, YOLOv8 contributors, and the open-source community.
