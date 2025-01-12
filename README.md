@@ -1,6 +1,6 @@
 # Explainability of Object Detection Models in Content Moderation
 
-This repository contains a university project focused on the explainability of object detection models, particularly in content moderation. We used the YOLOv8 model and a custom weapon dataset for training.
+This repository contains a university project focused on the explainability of object detection models, particularly in content moderation. We used the YOLOv8 model and a custom weapon dataset for training. A demo with GUI can be run with app.py to showcase the general idea of xAI in content moderation. 
 
 ## Introduction
 
